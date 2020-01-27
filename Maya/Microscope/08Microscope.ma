@@ -1,6 +1,6 @@
 //Maya ASCII 2019 scene
-//Name: 07Microscope.ma
-//Last modified: Wed, Jan 22, 2020 01:36:53 PM
+//Name: 08Microscope.ma
+//Last modified: Wed, Jan 22, 2020 01:37:03 PM
 //Codeset: 1252
 requires maya "2019";
 requires "mtoa" "3.2.2";
@@ -9855,4 +9855,4 @@ connectAttr "groupId46.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId47.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId48.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId49.msg" ":initialShadingGroup.gn" -na;
-// End of 07Microscope.ma
+// End of 08Microscope.ma
